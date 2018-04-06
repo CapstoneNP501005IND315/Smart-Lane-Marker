@@ -14,4 +14,4 @@ Function: Send out <CAR> signal by baut rate at 4800 baut rate.
 This is smart lane marker module
 require HC-12 module. The pin connection is include in the .iso file
 Function: Be able to detect the <CAR> signal on baut rate at 4800 baut rate.
-                Boradcast lane marker information 10 times.
+                Boradcast lane marker information 8 times.
